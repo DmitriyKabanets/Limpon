@@ -1,0 +1,13 @@
+/* Подключение локальных шрифтов из папки "font" */
+/* @font-face {
+    font-family: 'OpenSans';
+    src: url(../font/OpenSans-Italic.ttf)
+}
+
+h2 {
+    font-family: 'OpenSans';
+} */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
